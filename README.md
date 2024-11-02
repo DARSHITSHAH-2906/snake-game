@@ -1,1 +1,1 @@
-#Snanke game using the pyton turtle library
+Snanke game using the pyton turtle library
